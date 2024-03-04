@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ahmig.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: agar_miguel
 github_username:  ahmig
-linkedin_username: alvz-herrera-biotec
+linkedin_username: ahmig
 logo: https://avatars.githubusercontent.com/u/30174538
 
 orcid: 0000-0002-7922-3180
