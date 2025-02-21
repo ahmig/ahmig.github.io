@@ -1,0 +1,10 @@
+github_users:
+  - ahmig
+
+repo_description_lines_max: 2
+
+github_repos:
+  - PathoGenOmics-Lab/VIPERA
+  - PathoGenOmics-Lab/tcfinder
+  - PathoGenOmics-Lab/transcluster
+  - ahmig/solpoku
