@@ -8,3 +8,5 @@ github_repos:
   - PathoGenOmics-Lab/tcfinder
   - PathoGenOmics-Lab/transcluster
   - ahmig/solpoku
+  - ahmig/slurm-snakemake-workshop
+  - PathoGenOmics-Lab/misb-sysbio-training
