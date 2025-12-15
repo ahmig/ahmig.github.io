@@ -7,6 +7,12 @@ github_repos:
   - PathoGenOmics-Lab/VIPERA
   - PathoGenOmics-Lab/tcfinder
   - PathoGenOmics-Lab/transcluster
-  - ahmig/solpoku
-  - ahmig/slurm-snakemake-workshop
   - PathoGenOmics-Lab/misb-sysbio-training
+  - ahmig/slurm-snakemake-workshop
+  - ahmig/solpoku
+
+codeberg_repos:
+  - ahmig/solpoku
+
+tangled_repos:
+  - ahmig.es/solpoku
